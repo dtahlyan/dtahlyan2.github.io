@@ -1,12 +1,13 @@
 ---
 layout: page
-title: submenus
+title: research
 nav: true
 dropdown: true
-children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+children:  
+      - title: divider 
+      - title: working papers
+        permalink: /working papers/
+      - title: divider
+      - title: others
+        permalink: /others/
 ---

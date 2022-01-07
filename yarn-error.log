@@ -1,0 +1,26 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\rkant\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add mermaid.cli
+
+PATH: 
+  C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Ruby30-x64\bin;C:\Users\rkant\AppData\Local\Microsoft\WindowsApps;C:\Users\rkant\AppData\Local\GitHubDesktop\bin;C:\Users\rkant\AppData\Local\Microsoft\WindowsApps;C:\Users\rkant\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EEXIST: file already exists, mkdir 'G:\My Drive\Website_repo\al-folio redo\al-folio\node_modules\extract-zip\node_modules'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

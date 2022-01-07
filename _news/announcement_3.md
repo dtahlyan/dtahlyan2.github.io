@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-09-03
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper on characterizing visitor behavior using sequence alignment clustering is published. [[doi]](https://doi.org/10.1016/j.tourman.2021.104421)

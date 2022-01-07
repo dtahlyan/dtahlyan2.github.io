@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Telework Satisfaction during COVID-19 pandemic
+description: For whom did telework not work during the Pandemic? understanding the factors impacting telework satisfaction in the US using a multiple indicator multiple cause (MIMIC) model
+img: assets/img/telework_satisfaction.jpg
 importance: 1
 category: work
 ---

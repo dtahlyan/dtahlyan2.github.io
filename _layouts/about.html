@@ -18,6 +18,7 @@ layout: default
         {% responsive_image_block %}
           path: {{ page.profile.image | prepend: 'assets/img/' }}
           class: "img-fluid z-depth-1 rounded"
+	  zoomable: true
           alt: {{ page.profile.image }}
         {% endresponsive_image_block %}
       {% endif %}
@@ -33,9 +34,18 @@ layout: default
       {{ content }}
     </div>
 
-    {% if page.news %}
-      {% include news.html %}
-    {% endif %}
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+            {% if page.news %}
+                {% include news.html %}
+            {% endif %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% twitter https://twitter.com/DTahlyan maxwidth=300 limit=2 %}
+    </div>
+</div>
 
     {% if page.selected_papers %}
       {% include selected_papers.html %}
