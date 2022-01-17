@@ -8,7 +8,7 @@ nav: false
 
 > #### Master's Thesis
 
-* Tahlyan, D., 2018. Performance Evaluation of Choice Set Generation Algorithms for Modeling Truck Route Choice: Insights from Large Streams of Truck-GPS Data. University of South Florida. [`PDF`](https://digitalcommons.usf.edu/etd/7649/) [`CODE`](https://github.com/dtahlyan/BFS_LE) [`PPT`](/al-folio/assets/pdf/ThesisPresentation.pdf){:target="_blank"}
+* Tahlyan, D., 2018. Performance Evaluation of Choice Set Generation Algorithms for Modeling Truck Route Choice: Insights from Large Streams of Truck-GPS Data. University of South Florida. [`PDF`](https://digitalcommons.usf.edu/etd/7649/) [`CODE`](https://github.com/dtahlyan/BFS_LE) [`PPT`](/assets/pdf/ThesisPresentation.pdf){:target="_blank"}
 
 
 > #### Technical Reports
@@ -19,4 +19,4 @@ nav: false
 
 * `Tahlyan, D.`, Pinjari, A.R., Luong, T. and Ozkul, S., 2017. Truck Route Choice Modeling using Large Streams of GPS Data. Report No. CAIT-UTC-NC32. Prepared for Center for Advanced Infrastructure and Transportation (CAIT), U.S. Department of Transportation University Transportation Center. [`PDF`](https://rosap.ntl.bts.gov/view/dot/34888/)
 
-* `Tahlyan, D.`, Luong, T.D., Pinjari, A.R. and Ozkul, S., 2017. Development and Analysis of Truck Route Choice Data for the Tampa Bay Region using GPS Data. Report BDK25-730-3. Prepared for Florida Department of Transportation. [`PDF`](/al-folio/assets/pdf/routedata2017.pdf){:target="_blank"}
+* `Tahlyan, D.`, Luong, T.D., Pinjari, A.R. and Ozkul, S., 2017. Development and Analysis of Truck Route Choice Data for the Tampa Bay Region using GPS Data. Report BDK25-730-3. Prepared for Florida Department of Transportation. [`PDF`](/assets/pdf/routedata2017.pdf){:target="_blank"}
