@@ -17,4 +17,4 @@ nav: false
 
 * `Tahlyan, D.`, Kim, E., Mahmassani, H. Real-Time Short-Term Traffic Forecasting: A Meta-Learner Based Ensemble Framework. [`TRB Poster`](/assets/pdf/meta_learner_poster.pdf){:target="_blank"}
 
-* `Tahlyan, D.` and Mahmassani, H. Characterizing zero-vehicle households: A double-hurdle problem perspective.
+* `Tahlyan, D.` and Mahmassani, H. Characterizing zero-vehicle households: A double-hurdle problem perspective. [`TRB Poster`](/assets/pdf/Zero_Vehicle_Poster.pdf){:target="_blank"}
