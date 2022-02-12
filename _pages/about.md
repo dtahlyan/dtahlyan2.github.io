@@ -30,9 +30,9 @@ I am a `PhD Candidate` at the `Northwestern University's` Transportation Systems
 
 * `Social networks and travel`: Egocentric network data collection and synthetic social network generation, social capital measurement, dimensions and impact on activity participation.
 
-* `Transportation Sector Electrification`: Resilience and evacuation planning, transportation interaction with energy. 
+* `Transportation sector electrification`: Resilience and evacuation planning, transportation interaction with energy. 
 
-* `Sustainability and equity`: Micro- and shared mobility, well-being, reducing car dependence, accessibility, 
+* `Sustainability and equity`: Micro- and shared mobility, well-being, reducing car dependence, accessibility. 
 
 * `Route choice modeling`: choice set generation algorithms, truck route choice, use of large scale passive data sources
 
