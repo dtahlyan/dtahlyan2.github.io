@@ -20,6 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+[`Read my Northwestern Graduate School Interview here`](https://www.tgs.northwestern.edu/about/our-people/spotlight/divyakant-tahlyan.html){:target="_blank"}
+
 I am a `PhD Candidate` at the `Northwestern University's` Transportation Systems Analysis and Planning Program in the Department of Civil and Environmental Engineering. I am currently working at the `Transportation Center` as a graduate research assistant under the supervision of `Prof. Hani Mahmassani`. My research focuses on enabling safe, smart, sustainable, resilient and equitable transportation systems.
 
 ### Research Interests
