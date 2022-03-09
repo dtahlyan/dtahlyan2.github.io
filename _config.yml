@@ -100,7 +100,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 10
@@ -155,7 +155,7 @@ defaults:
   - scope:
       path:            "assets/**/*.*"
     values:
-      sitemap:         false
+      sitemap:         true
 
 # Extras
 github: [metadata]
