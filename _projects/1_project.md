@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Telework Satisfaction during COVID-19 pandemic
-description: For whom did telework not work during the Pandemic? understanding the factors impacting telework satisfaction in the US using a multiple indicator multiple cause (MIMIC) model
-img: assets/img/telework_satisfaction.jpg
+title: dummy text
+description: dummy text
+img: 
 importance: 1
 category: work
 ---
