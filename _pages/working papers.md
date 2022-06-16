@@ -13,8 +13,6 @@ nav: false
 
 * Said, M., `Tahlyan, D.`, Stathopoulos, A., Mahmassani, H., Walker, J., Shaheen, S. In-Person, Pick Up or Delivery? Evolving Patterns of Household Retail Spending Behavior Through the Pandemic.
 
-* `Tahlyan, D.`, Stathopoulos, A., Maness, M. Disentangling Social Capital: Understanding the Effect of Social Support and Social Network Resources on Urban Activity Participation. Transportation Research Interdisciplinary Perspectives [Accepted] [`Working Draft`](/assets/pdf/social_capital.pdf){:target="_blank"}
-
 * `Tahlyan, D.`, Kim, E., Mahmassani, H. Real-Time Short-Term Traffic Forecasting: A Meta-Learner Based Ensemble Framework. [`TRB Poster`](/assets/pdf/meta_learner_poster.pdf){:target="_blank"}
 
 * `Tahlyan, D.` and Mahmassani, H. Characterizing zero-vehicle households: A double-hurdle problem perspective. [`TRB Poster`](/assets/pdf/Zero_Vehicle_Poster.pdf){:target="_blank"}
