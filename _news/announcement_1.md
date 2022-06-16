@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-05-02
+date: 2022-06-05
 inline: true
 ---
 
-I was awarded the 2021 `T&DI Bob Camillone Memorial Scholarship` by ASCE Illinois Section.
+Paper on understanding relationship between different social capital dimensions and urban activity participation is published.
