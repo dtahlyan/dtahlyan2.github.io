@@ -6,7 +6,7 @@ description: Ph.D. Candidate. Northwestern University.
 
 profile:
   align: right
-  image: tahlyan-web-2.jpg
+  image: tahlyan-web.jpg
   address: >
     <p>Northwestern University</p>
     <p>Transportation Center</p>
