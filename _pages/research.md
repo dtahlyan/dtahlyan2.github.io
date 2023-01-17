@@ -10,7 +10,8 @@ horizontal: false
 
 #### Trajectories of Telework Through the Pandemic
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +26,8 @@ horizontal: false
 
 #### For Whom did Telework not Work during the Pandemic?
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +40,8 @@ horizontal: false
 
 #### Employers’ Perspective on the Future of Work Post-Pandemic
 
-<div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
