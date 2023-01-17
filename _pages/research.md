@@ -10,7 +10,7 @@ horizontal: false
 
 #### Trajectories of Telework Through the Pandemic
 
-{% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+{% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1 width="50" " zoomable: true %}
 
 {% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
 
