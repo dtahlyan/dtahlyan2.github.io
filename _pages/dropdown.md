@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-nav: true
+nav: false
 dropdown: true
 children:  
       - title: working papers
