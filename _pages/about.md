@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! I am a PhD Candidate at the Northwestern University's Transportation Systems Analysis and Planning Program in the Department of Civil and Environmental Engineering. I am currently working at the Transportation Center as a graduate research assistant under the supervision of Prof. Hani Mahmassani. 
 
-My research braodly focuses on understanding human-technology-infrastructure-market interactions through a lens of socio-technical systems analysis framework to enable next generation transportation systems that are sustainable, safe, smart, resilient, and equitable. 
+My research braodly focuses on understanding `human-technology-infrastructure-market` interactions through a lens of socio-technical systems analysis framework to enable next generation transportation systems that are sustainable, safe, smart, resilient, and equitable. 
 
 My dissertation research addresses the question of the extent to which the COVID-19 pandemic altered the `telemobility` landscape in the United States; and
 the implications of these potentially changing trends on mobility and sustainability of our cities. Other areas of research that I have explored in the past include understnading `travel behavior` and its interaction with `social networks`, advanced behavioral modeling, big `GPS data` analysis and freight planning, `machine learning` applications in `transportation`, particularly unsupervised learning and ensemble learning models. 
