@@ -1,57 +1,31 @@
 ---
 layout: page
-title: research
+title: 
 permalink: /research/
 description:  
 nav: false
 display_categories:
 horizontal: false
 ---
-<div class="projects">
-  {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-    {% for category in page.display_categories %}
-      <h2 class="category">{{ category }}</h2>
-      {% assign categorized_projects = site.projects | where: "category", category %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
-      <!-- Generate cards for each project -->
-      {% if page.horizontal %}
-        <div class="container">
-          <div class="row row-cols-2">
-          {% for project in sorted_projects %}
-            {% include projects_horizontal.html %}
-          {% endfor %}
-          </div>
-        </div>
-      {% else %}
-        <div class="grid">
-          {% for project in sorted_projects %}
-            {% include projects.html %}
-          {% endfor %}
-        </div>
-      {% endif %}
-    {% endfor %}
 
-  {% else %}
-  <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
-    <!-- Generate cards for each project -->
-    {% if page.horizontal %}
-      <div class="container">
-        <div class="row row-cols-2">
-        {% for project in sorted_projects %}
-          {% include projects_horizontal.html %}
-        {% endfor %}
-        </div>
-      </div>
-    {% else %}
-      <div class="grid">
-        {% for project in sorted_projects %}
-          {% include projects.html %}
-        {% endfor %}
-      </div>
-    {% endif %}
+#### Trajectories of Telework Through the Pandemic
 
-  {% endif %}
+{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
 
-</div>
+
+
+#### For Whom did Telework not Work during the Pandemic?
+
+{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+
+#### Employers’ Perspective on the Future of Work Post-Pandemic
+
+{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+
+#### Latent Transition Analysis of Consumer Spending Behavior and Adaptation Across Online and In-Person Channels Through the Pandemic
+
+{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
