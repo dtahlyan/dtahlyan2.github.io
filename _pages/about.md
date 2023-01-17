@@ -22,22 +22,10 @@ social: false  # includes social icons at the bottom of the page
 
 [`Click Here To Read My Northwestern Graduate School Spotlight Interview`](https://www.tgs.northwestern.edu/about/our-people/spotlight/divyakant-tahlyan.html){:target="_blank"}
 
-I am a `PhD Candidate` at the `Northwestern University's` Transportation Systems Analysis and Planning Program in the Department of Civil and Environmental Engineering. I am currently working at the `Transportation Center` as a graduate research assistant under the supervision of `Prof. Hani Mahmassani`. My research focuses on enabling safe, smart, sustainable, resilient and equitable transportation systems.
+Hello! I am a `PhD Candidate` at the `Northwestern University's` Transportation Systems Analysis and Planning Program in the Department of Civil and Environmental Engineering. I am currently working at the `Transportation Center` as a graduate research assistant under the supervision of `Prof. Hani Mahmassani`. My research braodly focuses on understanding human-technology-infrastructure-market interactions through a lens of socio-technical systems analysis framework to enable next generation transportation systems that are sustainable, safe, smart, resilient, and equitable. 
 
-### Research Interests
+My dissertation research addresses the question of the extent to which the COVID-19 pandemic altered the telemobility landscape in the United States; and
+the implications of these potentially changing trends on mobility and sustainability of our cities, which generally have several subsystems optimized around the idea of weekday commute hour or presence of many individuals at the same place and at the same time. To address this question, I posit cities as a complex socio-technical system with multiple interacting actors that either depend on or compete with each other (e.g.,consumers, employers, businesses, public agencies etc.). I argue that the advent of information and communications technologies (ICTs) opened a new pathway of complex interaction between various actors and the pandemic induced shocks forced the involved actors to adapt. To understand the changing trends in telemobility adoption patterns because of the COVID-19 pandemic, my research focuses on
+looking at these changing trends from both the demand and supply side perspective since the decisions made at one end of this socio-technical system will define the patterns of adoption at other end and will eventually determine the resulting changes in the telemobility landscape. 
 
-* `Statistical, econometric and machine learning methods for transportation data analysis`: discrete choice and ordered response models, integrated choice and latent variable models, count data models, heterogeneity and hierarchical models, structural equation modeling, latent class and latent transition analysis, machine learning based classifiers (SVM, neural networks, decision trees), ensemble learning, and causal inference.
-
-* `ICT and travel`: role of perceptions, attitudes, experiences, constraints and satisfaction on tele-activities adoption and future retention, virtual/physical activity interaction, tele-activity and well-being.
-
-* `Social networks and travel`: Egocentric network data collection and synthetic social network generation, social capital measurement, dimensions and impact on activity participation.
-
-* `Transportation sector electrification`: Resilience and evacuation planning, transportation interaction with energy. 
-
-* `Sustainability and equity`: Micro- and shared mobility, well-being, reducing car dependence, accessibility. 
-
-* `Route choice modeling`: choice set generation algorithms, truck route choice, use of large scale passive data sources
-
-* `Crash data analysis`: frequency and severity modeling and prediction, zero-inflated and limited dependent variable models, unobserved heterogeneity and hierarchical models, spatial transfer-ability and temporal instability.
-
-
+Other areas of research that I have explored in the past include understnading travel behavior and its interaction with social networks, advanced behavioral modeling, big data analysis and freight planning, machine learning applications in transportation, particularly unsupervised learning and ensemble learning models. 
