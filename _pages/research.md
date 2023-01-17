@@ -12,14 +12,14 @@ horizontal: false
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/all_trajectories_full.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+        {% responsive_image path: assets/img/mean_trajectories.png class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
 
 
