@@ -10,26 +10,54 @@ horizontal: false
 
 #### Trajectories of Telework Through the Pandemic
 
-{% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1 width="50" " zoomable: true %}
-
-{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
 
 
 
 #### For Whom did Telework not Work during the Pandemic?
 
-{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-
-{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
 
 #### Employers’ Perspective on the Future of Work Post-Pandemic
 
-{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-
-{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
 
 #### Latent Transition Analysis of Consumer Spending Behavior and Adaptation Across Online and In-Person Channels Through the Pandemic
 
-{% responsive_image path: assets/img/8.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-
-{% responsive_image path: assets/img/10.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
