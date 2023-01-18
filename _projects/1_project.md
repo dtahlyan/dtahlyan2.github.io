@@ -1,7 +1,7 @@
 ---
 layout: page
-title: dummy text
-description: dummy text
+title: Programming Tips
+description: some useful programming tips after years of learning to code
 img: 
 importance: 1
 category: work
