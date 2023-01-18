@@ -3,7 +3,7 @@ layout: page
 title: misc
 permalink: /misc/
 description: 
-nav: true
+nav: false
 display_categories:
 horizontal: true
 ---
