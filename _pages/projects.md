@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: misc
+permalink: /misc/
 description: space to summarize my recent research in less than 1000 words 
-nav: false
+nav: true
 display_categories:
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
