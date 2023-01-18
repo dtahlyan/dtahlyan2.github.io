@@ -2,7 +2,7 @@
 layout: page
 title: misc
 permalink: /misc/
-description: space to summarize my recent research in less than 1000 words 
+description: 
 nav: true
 display_categories:
 horizontal: true
