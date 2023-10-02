@@ -3,6 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description:
+nav: true
 ---
 
 {% for project in site.projects %}
