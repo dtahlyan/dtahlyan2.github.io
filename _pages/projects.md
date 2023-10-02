@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [telework, ecommerce]
+display_categories: [telework, ecommerce, so_cap]
 horizontal: false
 ---
 {% for project in site.projects %}
