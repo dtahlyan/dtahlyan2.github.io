@@ -1,66 +1,61 @@
 ---
 layout: page
-title: 
 permalink: /research/
-description:  
-nav: false
-display_categories:
-horizontal: false
+title: teaching
+nav: true
+description: classes, workshops, and teaching material
 ---
 
-#### Trajectories of Telework Through the Pandemic
+<h3 class="mt-4">carnegie mellon university</h3>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/all_trajectories_full.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            10-701
+        </span>
+      </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/mean_trajectories.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Guest Lecturer / Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Graduate-level introduction to machine learning course taught by <a href="http://www.cs.cmu.edu/~tom">Tom Mitchell</a>.</li>
+      <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> and <a href="/assets/pdf/teaching/gmm_lecture_code.zip">code</a></li>
+      <li class="list-group-item">— Lecture on co-training and accuracy estimation using unlabeled data: <a href="/assets/pdf/teaching/cotraining_and_accuracy_estimation_lecture.pdf">slides</a></li>
+      <li class="list-group-item">— Lecture reviewing graphical models basics: <a href="/assets/pdf/teaching/graphical_models_review_lecture.pdf">slides</a></li>
+      <li class="list-group-item">— <a href="/assets/pdf/teaching/logistic_regression_and_convex_optimization.pdf">Recitation notes</a> on logistic regression and convex optimization</li>
+    </ul>
+  </div>
 </div>
 
-
-
-#### For Whom did Telework not Work during the Pandemic?
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            10-701
+        </span>
+      </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
-</div>
-
-#### Employers’ Perspective on the Future of Work Post-Pandemic
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2014: Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">Graduate-level introduction to machine learning course taught by <a href="http://www.cs.cmu.edu/~ggordon">Geoff Gordon</a> and <a href="http://www.cs.cmu.edu/~aarti">Aarti Singh</a>.</li>
+      <li class="list-group-item">— Lecture on co-training and accuracy estimation using unlabeled data: </li>
+      <li class="list-group-item">— Lecture reviewing graphical models basics: <a href="/assets/pdf/teaching/graphical_models_review_lecture.pdf">slides</a></li>
+      <li class="list-group-item">— Introductory recitation on convexity and gradient descent: <a href="https://www.youtube.com/watch?v=eRYQN4Hty0w">video</a></li>
+      <li class="list-group-item">— <a href="/assets/pdf/teaching/some_derivations_involving_matrix_calculus_recitation.pdf">Recitation notes</a> on some derivations involving matrix calculus</li>
+    </ul>
+  </div>
 </div>
 
-#### Latent Transition Analysis of Consumer Spending Behavior and Adaptation Across Online and In-Person Channels Through the Pandemic
+<h3 class="mt-4">random stuff</h3>
 
-<div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/trajectories_framework.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/7.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-</div>
-<div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+<div class="col">
+  <a href="/assets/pdf/teaching/writing_python_libraries.pdf">Some notes</a> on writing Python libraries.
 </div>
