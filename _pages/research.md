@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: teaching
+title: research
 nav: false
-description: classes, workshops, and teaching material
+description: 
 ---
 text here
