@@ -3,7 +3,7 @@ layout: page
 permalink: /in progress/
 title:
 description:
-nav: true
+nav: false
 ---
 
 > #### Work in Progress (drafts available upon request)
