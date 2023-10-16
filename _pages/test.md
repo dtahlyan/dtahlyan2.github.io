@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /test/
 title: test
 nav: false
