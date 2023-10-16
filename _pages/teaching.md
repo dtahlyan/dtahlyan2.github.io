@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: 
-description:
+title: teaching
+description: 
 nav: true
 ---
-
-> #### Teaching
 
 I am teaching the following two courses at Northwestern in Winter and Spring 2024 quarters. More details to follow soon. 
 
