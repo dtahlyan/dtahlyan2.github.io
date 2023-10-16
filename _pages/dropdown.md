@@ -1,12 +1,12 @@
 ---
 layout: page
 title: research
-nav: false
+nav: true
 dropdown: true
 children:  
-      - title: working papers
-        permalink: /working papers/
+      - title: projects
+        permalink: /projects/
       - title: divider
-      - title: others
-        permalink: /others/
+      - title: in progress
+        permalink: /in progress/
 ---
