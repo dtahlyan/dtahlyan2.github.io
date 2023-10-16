@@ -7,7 +7,7 @@ description:
 ---
 
 
-#### Project 1
+> #### Project 1
 
 <img style="margin-right: 1.5rem" align="left" width="150" src="/assets/img/utc.png">
 
@@ -16,7 +16,7 @@ This website was built as a static site using [Jekyll]. The purpose of the curre
 <br>
 <br>
 
-#### Project 2
+> #### Project 2
 
 <img style="margin-left: 1.5rem" align="right" width="150" src="/assets/img/utc.png">
 
