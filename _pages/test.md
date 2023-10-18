@@ -13,20 +13,9 @@ description:
 
 This website was built as a static site using [Jekyll]. The purpose of the current (hopefully short) series of posts is to explain what that means, why I chose to build the site this way, and to explain how the site was created so that others can build a similar site. In this first post, I want to explain what is meant by a 'static' site and the types of files involved in creating a Jekyll based site. Those who don't need or want to read about the background to the website can find all the source files for this website in the relevant repository on my.  <br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Data_Dynamics.drawio.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/all_trajectories_full.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/telework_satisfaction.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    On the left, dynamics of respondent recruitment and attrition over 7 waves of data collection. Middle, trajectories of work location through the pandemic for 900+ respondents. Right, results from a MIMIC model with the factors impact telework satisfaction through the pandemic.
-</div>
+
+
+![alt-text-1](Data_Dynamics.drawio.png "title-1") ![alt-text-2](all_trajectories_full.png "title-2") ![alt-text-2](telework_satisfaction.jpg "title-2")
 
 <br>
 <br>
