@@ -15,7 +15,7 @@ This website was built as a static site using [Jekyll]. The purpose of the curre
 
 
 
-![alt-text-1](Data_Dynamics.drawio.png "title-1") ![alt-text-2](all_trajectories_full.png "title-2") ![alt-text-2](telework_satisfaction.jpg "title-2")
+![alt-text-1](assets/img/Data_Dynamics.drawio.png "title-1") ![alt-text-2](assets/img/all_trajectories_full.png "title-2") ![alt-text-2](assets/img/telework_satisfaction.jpg "title-2")
 
 <br>
 <br>
