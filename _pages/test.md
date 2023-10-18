@@ -17,7 +17,17 @@ This website was built as a static site using [Jekyll]. The purpose of the curre
 <br>
 <br>
 
-<img src="/assets/img/telework_satisfaction.jpg" width="400"> <img src="/assets/img/all_trajectories_full.png" width="400">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: /assets/img/all_trajectories_full.png class: "img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: /assets/img/telework_satisfaction.jpg class: "img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    left: work location trajectories of 905 respondents through the pandemic; right: resutls from a MIMIC model showing the factors impacting telework satisfaction during the pandemic
+</div>
 
 
 > #### Project 2
