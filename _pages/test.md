@@ -17,7 +17,7 @@ This website was built as a static site using [Jekyll]. The purpose of the curre
 <br>
 <br>
 
-<img src="/assets/img/Data_Dynamics.drawio.png" width="500"> <img src="/assets/img/all_trajectories_full.png" width="500">
+<img src="/assets/img/telework_satisfaction.jpg" width="400"> <img src="/assets/img/all_trajectories_full.png" width="400">
 
 
 > #### Project 2
