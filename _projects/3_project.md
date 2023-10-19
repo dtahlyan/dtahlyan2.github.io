@@ -2,6 +2,6 @@
 layout: page
 title: 
 description:
-img: assets/pubimg/modeling.png
+img: assets/img/modeling.png
 ---
 Text Here
