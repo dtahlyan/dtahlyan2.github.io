@@ -28,3 +28,9 @@ As graduate research assistant and Ph.D. Candidate at Transportation Center, Nor
 
 #### EAA Airshow Access Logistics
 <span style="color:#3B7EA1 "> Sponsoring Agency:</span> Experimental Aircrafts Association
+
+Outputs: 
+* Characterizing visitor engagement behavior at large-scale events: Activity sequence clustering and ranking using GPS tracking data [`DOI`](https://doi.org/10.1016/j.tourman.2021.104421)
+* Simulating Large-Scale Events as a Network of Heterogeneous Queues: Framework and Application [`DOI`](https://doi.org/10.1177/03611981211035755)
+
+
