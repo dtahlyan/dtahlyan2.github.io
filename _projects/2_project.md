@@ -2,7 +2,7 @@
 layout: page
 title: 
 description:
-img: assets/pubimg/innovation.png
+img: assets/img/innovation.png
 
 ---
 Text Here
