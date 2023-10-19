@@ -2,9 +2,6 @@
 layout: page
 title: 
 description:
-img: assets/pubimg/socialcapital.png
-importance: 1
-category: so_cap
-related_publications: TAHLYAN2022387
+img: assets/img/modeling.png
 ---
 Text Here
