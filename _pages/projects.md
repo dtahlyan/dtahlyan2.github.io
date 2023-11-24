@@ -8,9 +8,11 @@ nav: false
 
 #### Understanding consumer spending during the pandemic using RI-LTA
 <br>
+
 > <img align="right" width="400"  src="/assets/img/LTA_RI.png">
-> We present a novel latent transition analysis with random intercept (RI-LTA) framework to understand the changes to consumer spending landscape through the pandemic across various product categories and acquisition channels. Using data from 785 individuals from across United States at four different time points (pre-COVID, December 2020, March 2021 and March 2022), the presented model revealed five different behavioral classes of consumer spending and the dynamics of movement between classes as a result of the pandemic. The results from the model also revealed that the pandemic’s single biggest impact was in terms of suppression of demand for dine-in and take-out of food - potentially due to 
-it being a high-risk activity. However, over time a reversal of this behavior is seen, back to an increased dine-in and food take-out activity. The second significant behavioral transition was of movement towards delivery and pick-up services where about 2-3-fold increase in their usage is visible — a large portion of  which appears to be stable over time, more so in the case of delivery than pick-up.
+
+> We present a novel latent transition analysis with random intercept (RI-LTA) framework to understand the changes to consumer spending landscape through the pandemic across various product categories and acquisition channels. Using data from 785 individuals from across United States at four different time points (pre-COVID, December 2020, March 2021 and March 2022), the presented model revealed five different behavioral classes of consumer spending and the dynamics of movement between classes as a result of the pandemic. The results from the model also revealed that the pandemic’s single biggest impact was in terms of suppression of demand for dine-in and take-out of food - potentially due to it being a high-risk activity. However, over time a reversal of this behavior is seen, back to an increased dine-in and food take-out activity. The second significant behavioral transition was of movement towards delivery and pick-up services where about 2-3-fold increase in their usage is visible — a large portion of  which appears to be stable over time, more so in the case of delivery than pick-up.
+
 <br><br><br>
 
 #### Trajectories of telework through the pandemic
