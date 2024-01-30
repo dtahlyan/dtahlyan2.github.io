@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[`Click Here To Read My Northwestern Graduate School Spotlight Interview`](https://www.tgs.northwestern.edu/about/our-people/spotlight/divyakant-tahlyan.html){:target="_blank"}
+
 
 Hello! I am postdoctoral researcher at the Northwestern University Transportation Center. I recently completed my PhD from the Northwestern University's Transportation Systems Analysis and Planning Program in the Department of Civil and Environmental Engineering. My disseration titled `Telemobility Through the Pandemic: Longitudinal Tracking, Modeling and Outlook` can be found [`here`](https://www.proquest.com/docview/2856237653/8DE64DED95504441PQ){:target="_blank"}
 
